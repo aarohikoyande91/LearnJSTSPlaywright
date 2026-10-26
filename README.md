@@ -3,6 +3,7 @@
 Beginner-friendly, standalone JavaScript examples for practicing language fundamentals. The examples are organized by topic:
 
 - Basic output, arithmetic, variables, and JavaScript engine notes in the root-level examples
+- `var`, `let`, and `const` declarations and scope in `Var_Let_Const_Hoisting_TDZ/`
 - Literal values, including numbers, `null`, and `undefined`, in `Literal/`
 - Arithmetic, assignment, comparison, and logical operators in `Operator/`
 - Conditional statements in `ifelsestatement/` and `Switch/`
@@ -16,6 +17,7 @@ Install [Node.js](https://nodejs.org/), then run an example from the project roo
 
 ```sh
 node HelloWorld.js
+node Var_Let_Const_Hoisting_TDZ/intro.js
 node Operator/ConfusingOp.js
 node loops/forloop.js
 node dowhile/retry.js
